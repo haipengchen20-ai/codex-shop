@@ -1,0 +1,15 @@
+# Local runtime data and downloaded media
+data/
+
+# Installed dependencies
+node_modules/
+
+# Local agent/workflow scratch data
+.firecrawl/
+.superpowers/
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+*.log
+*.lnk
